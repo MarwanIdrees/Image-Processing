@@ -2,7 +2,12 @@
 This repository contains various scripts and tools for image processing tasks.
 
 [Fourier transform Example 1:  ](https://github.com/MarwanIdrees/Image-Processing/blob/main/Fourier-transform-Exp1.m) 
+
 **This MATLAB code processes an image through frequency domain filtering using the Fourier transform:**
+
+![Fourier transform Example 1](https://github.com/MarwanIdrees/Image-Processing/blob/main/Image%201.png)
+
+
 ```clear all
 close all
 clc
