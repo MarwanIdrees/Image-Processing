@@ -30,6 +30,6 @@ FS(37:47,115:125)=0;
 new = real(ifft2(ifftshift(FS)));
 subplot(2,2,3),imshow(new,[]),title('Filtered image spectrum');
 im=log(1 + abs(FS));
-subplot(2,2,4),imshow(im,[]),title('Image Spectrum Of Filtered Image');```
+subplot(2,2,4),imshow(im,[]),title('Image Spectrum Of Filtered Image');
 
 
